@@ -1,1 +1,1 @@
-Postgres periodic table database with bash script for retrieving information about any given element.
+This is a simple project consisting of a PostgreSQL database with multiple tables that hold information about elements on the periodic table.  An interactive shell script queries the database and returns the relevant information for a specific element based on the user's input.
